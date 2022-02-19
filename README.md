@@ -2,6 +2,9 @@
 
 ![alt_text](https://user-images.githubusercontent.com/99091066/154779897-675790a6-e10a-4125-96a7-a25c812e7525.png)
 
+## Introduction
+
+The finance industry has changed drastically over the past few decades. The rise in technology has pushed companies within the industry to explore new innovative ways of doing business, while maintaining the quality of services that are provided. Digitalizing services increase operational efficiencies by reducing the time it takes to execute certain tasks, as well reducing costs by removing the middle-man or intermediary. Developing smartphone apps for these services have the potential to increase the target market and give more people the opportunity to invest, since it's now easily accessible. 
 
 ## Overview and Origin
 
