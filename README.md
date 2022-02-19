@@ -30,6 +30,9 @@
    
    > A summary of the technologies used by the company. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a)
 
+<img width="405" alt="Screen Shot 2022-02-18 at 9 02 06 PM" src="https://user-images.githubusercontent.com/99091066/154781849-49f48b56-0dc3-4ef3-84c7-1720211b5681.png">
+
+   > An application used for various departments within the company; communication, collaboration, marketing, customer management, and sales. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a)
 
 ## Landscape
 
