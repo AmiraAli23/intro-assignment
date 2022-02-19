@@ -1,4 +1,7 @@
-# ModernAdvisors
+# ModernAdvisor
+
+![alt_text](https://user-images.githubusercontent.com/99091066/154779897-675790a6-e10a-4125-96a7-a25c812e7525.png)
+
 
 ## Overview and Origin
 
