@@ -16,7 +16,7 @@
 * How is the company funded? How much funding have they received?
 
 
-## Business Activities:
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 
@@ -29,7 +29,7 @@
 <img align="centre" src="https://user-images.githubusercontent.com/99091066/154779648-1aa9bc5d-4483-4c2b-81df-55e725b6290f.png">
 
 
-## Landscape:
+## Landscape
 
 * What domain of the financial industry is the company in?
 
