@@ -8,15 +8,17 @@ The finance industry has changed drastically over the past few decades. The rise
 
 ## Overview and Origin
 
-* Name of company
+Navid Boostani recognized the need for a robo advising service that charged minimal fees while providing exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. 
 
-* When was the company incorporated?
+<img width="786" alt="Screen Shot 2022-02-19 at 4 17 47 PM" src="https://user-images.githubusercontent.com/99091066/154819375-df3a2bd2-9090-4551-951b-a193949e9cc8.png">
 
-* Who are the founders of the company?
+   > Above are the members of their executive investments team. [Source](https://www.modernadvisor.ca/team/)
+   
 
-* How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+Their services have the capability to rebalance their customer’s portoflios in order to adjust to market conditions. This is to ensure each investor's portfolio is still suitable.
+
+They raised $2.2 Million in funding in 2015, provided by their lead investor Moray Keith and Conconi Growth Partners, and began operating in 2016.
 
 
 ## Business Activities
