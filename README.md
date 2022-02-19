@@ -23,6 +23,9 @@
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
 
+<img align="centre" src="https://user-images.githubusercontent.com/99091066/154779648-1aa9bc5d-4483-4c2b-81df-55e725b6290f.png">
+
+
 ## Landscape:
 
 * What domain of the financial industry is the company in?
