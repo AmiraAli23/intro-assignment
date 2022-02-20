@@ -22,6 +22,20 @@ They raised $2.2 Million in funding in 2015, provided by their lead investor Mor
 
 <img width="1205" alt="Screen Shot 2022-02-19 at 7 08 52 PM" src="https://user-images.githubusercontent.com/99091066/154823394-b0811457-0631-4ec5-8244-39784524d5f2.png">
 
+### How it works
+
+ModernAdvisor uses low cost, exchange traded funds to customize portfolios, suited to each of their customer's needs. As shown on their website, the risk levels vary from 1-10 and their performance based on those risk levels can be visualized. For example, a socially responsible portfolio with a risk level of 1's performance can be seen below. 
+
+<img width="799" alt="Screen Shot 2022-02-19 at 7 21 01 PM" src="https://user-images.githubusercontent.com/99091066/154823596-55762c27-ec67-4288-bfe6-fddb75748ddf.png">
+
+   > The dip in early 2020 can be explained because of the Covid-19 pandemic and the mass uncertainty/volatility that followed.
+
+### Types of accounts offered 
+* Registered (RRSP, RESP, TFSA, LIRA)
+* Non-Registered ( Open / Cash ) 
+[Source](https://www.savvynewcanadians.com/modernadvisor-review/)
+
+
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
