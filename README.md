@@ -38,7 +38,19 @@ ModernAdvisor uses low cost, exchange traded funds to customize portfolios, suit
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+The company was looking to address the need for cheaper services within the industry. Many of their competitors charge higher mangement fees or MER (Management Expense Ratio). However once these metrics are compared to the competitors in the industry, the fees are either on par or higher than their competiors. Below is a comparison of fee percentages for $2,500, $10,000, and $100,000 accounts. 
+
+<img width="761" alt="Screen Shot 2022-02-20 at 6 10 29 PM" src="https://user-images.githubusercontent.com/99091066/154868529-d09b781f-216c-4a78-a18e-6776efca794b.png">
+
+   > For a $2,500 account, Modernadvisor charges roughly one-third of its peers.
+
+<img width="772" alt="Screen Shot 2022-02-20 at 6 10 54 PM" src="https://user-images.githubusercontent.com/99091066/154868538-a324fa86-296f-4419-9805-8b92ebc5b5c3.png">
+
+   > In this case, the fee percentages charged by ModernAdvisor are higher than both of the competitors.
+
+<img width="770" alt="Screen Shot 2022-02-20 at 6 11 10 PM" src="https://user-images.githubusercontent.com/99091066/154868543-d6152772-cab7-485e-8eca-e7ae9e908d8f.png">
+
+   > In this scenario, ModernAdvisor's fee ratio falls in between the two major competitors. [Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
