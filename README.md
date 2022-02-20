@@ -52,7 +52,15 @@ The company was looking to address the need for cheaper services within the indu
 
    > In this scenario, ModernAdvisor's fee ratio falls in between the two major competitors. [Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+At first glance, one would assume the intended customer would be individuals who are well-versed and trust technology, individuals who could have lower income hence the push for lower fees, and targeted towards Millenials (emphasizing their option for socially responsible portfolios as Millenials typically invest in socially responsible stocks [Source](https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/). However it is apparent, through their new account/sign up website, that ModernAdvisor is looking to take on seasoned investors and those individuals that can be "vouched" for. If one were to try creating an account, they are prompted by the following message 
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/154868925-f2978f27-48dd-4a47-9264-0a715b4961d8.png">
+
+   > Users are required to enter in a referral code from a financial planner, friend, or referral. 
+
+This has a signficant negative impact on their business. By creating new accounts through referrals, they are decreasing their customer base and almost "Gatekeeping" thei service. Their website promotes transparency and cheap services however make it incredibly difficult to access said services. 
+
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
