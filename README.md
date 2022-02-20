@@ -16,10 +16,11 @@ Navid Boostani recognized the need for a robo advising service that charged mini
    
 
 
-Their services have the capability to rebalance their customer’s portoflios in order to adjust to market conditions. This is to ensure each investor's portfolio is still suitable.
+Their services have the capability to rebalance their customer’s portoflios in order to adjust to market conditions. This is to ensure each investor's portfolio is still suitable. If the investments in the account deviate more than 5% from their targets, there is an automatic rebalancing that is triggered that shifts the weights back to the target. [Source](https://help.modernadvisor.ca/en/articles/4199089-how-does-rebalancing-work)
 
-They raised $2.2 Million in funding in 2015, provided by their lead investor Moray Keith and Conconi Growth Partners, and began operating in 2016.
+They raised $2.2 Million in funding in 2015, provided by their lead investor Moray Keith and Conconi Growth Partners, and began operating in 2016. [The information below](https://www.crunchbase.com/organization/modernadvisor/company_financials) was retreived through CrunchBase. 
 
+<img width="1205" alt="Screen Shot 2022-02-19 at 7 08 52 PM" src="https://user-images.githubusercontent.com/99091066/154823394-b0811457-0631-4ec5-8244-39784524d5f2.png">
 
 ## Business Activities
 
