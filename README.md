@@ -81,7 +81,7 @@ The technology that ModernAdvisor utilizes is not showcased or mentioned on thei
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
+ModernAdvisor is in the "robo-advising" domain of Fintech. Robo-advising is a technological services that uses formulas, algorithms and other code to produce investment advice and portfolios. Users are reequired to fill out a questionairre that gathers information regarding income, risk appetite, financial goals, and other demographic information. The more extensive the questionairre is, the better as it will better suit the investor's needs. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
