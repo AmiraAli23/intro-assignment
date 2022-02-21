@@ -59,16 +59,21 @@ At first glance, one would assume the intended customer would be individuals who
 
    > Users are required to enter in a referral code from a financial planner, friend, or referral. 
 
-This has a signficant negative impact on their business. By creating new accounts through referrals, they are decreasing their customer base and almost "Gatekeeping" thei service. Their website promotes transparency and cheap services however make it incredibly difficult to access said services. 
+This has a signficant negative impact on their business. By creating new accounts through referrals, they are limiting their customer base and in a sense, "gatekeeping" their service. Their website promotes transparency and cost effective services however make it incredibly difficult to access said services. 
 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+One feature setting ModernAdvisor apart from its competitors is the option to have a "trial" for their first $1,000 invested and "call" their option. In thirty days, depending on if the value of their investment increased or decreased, they have the option to opt out with no loss, or realize the gains [Source](https://www.modernadvisor.ca/trial/). This option is enticing and gives investors a peek into their possible future portfolios.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
+The technology that ModernAdvisor utilizes is not showcased or mentioned on their site. Navigating through the site, it is apparent they use "Intercom" as a channel to communicate with investors and possible investors. 
 
 <img align="centre" src="https://user-images.githubusercontent.com/99091066/154779648-1aa9bc5d-4483-4c2b-81df-55e725b6290f.png">
    
-   > A summary of the technologies used by the company. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a)
+   > A summary of the technologies used by the company. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a). 
+   * Angularis is a web framework that is used to host websites. 
+   * Javascript helps build web apps, mostly used for functions. 
+   * MySQL and PostgreSQL are both systems that organize data. 
+   * Font Awesome is used to design logos and fonts for websites and icons. 
+   * Ruby on Rails is used to build websites. 
 
 <img width="405" alt="Screen Shot 2022-02-18 at 9 02 06 PM" src="https://user-images.githubusercontent.com/99091066/154781849-49f48b56-0dc3-4ef3-84c7-1720211b5681.png">
 
