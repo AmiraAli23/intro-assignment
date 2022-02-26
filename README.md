@@ -4,11 +4,11 @@
 
 ## Introduction
 
-The finance industry has changed drastically over the past few decades. The rise in technology has pushed companies within the industry to explore new innovative ways of doing business, while maintaining the quality of services that are provided. Digitalizing services increase operational efficiencies by reducing the time it takes to execute certain tasks, as well reducing costs by removing the middle-man or intermediary. Developing smartphone apps for these services have the potential to increase the target market and give more people the opportunity to invest, as it's now easily accessible. 
+The finance industry has changed drastically over the past few decades. The rise in technology has pushed companies within the industry to explore new innovative ways of doing business, while maintaining the quality of services that are provided. Digitalizing services increase operational efficiencies by reducing the time it takes to execute certain tasks, as well reducing costs by removing the middle-man or intermediary. Developing smartphone apps for these services have the potential to increase the target market and give more people the opportunity to invest, as it's now easily accessible. ModernAdvisor is a company operating under the Robo-Advising fintech domain.
 
 ## Overview and Origin
 
-Navid Boostani recognized the need for a robo advising service that charged minimal fees while providing exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. 
+Navid Boostani wanted to address the need in the markets for cheaper services that charged minimal fees while also wanting to provide exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. 
 
 <img width="786" alt="Screen Shot 2022-02-19 at 4 17 47 PM" src="https://user-images.githubusercontent.com/99091066/154819375-df3a2bd2-9090-4551-951b-a193949e9cc8.png">
 
@@ -24,7 +24,11 @@ They raised $2.2 Million in funding in 2015, provided by their lead investor Mor
 
 ### How it works
 
-ModernAdvisor uses low cost, exchange traded funds to customize portfolios, suited to each of their customer's needs. As shown on their website, the risk levels vary from 1-10 and their performance based on those risk levels can be visualized. For example, a socially responsible portfolio with a risk level of 1's performance can be seen below. 
+ModernAdvisor uses low cost, exchange traded funds to customize portfolios, suited to each of their customer's needs. 
+
+They offer 2 portfolios; core and socially responsible. Socially resposible portfolios invest in companies that don't have a negative impact on the environement and companies who are not involved in the production of weaponry and tobacco.
+
+As shown on their website, the risk levels vary from 1-10 and their performance based on those risk levels can be visualized. For example, a socially responsible portfolio with a risk level of 1's performance can be seen below. 
 
 <img width="799" alt="Screen Shot 2022-02-19 at 7 21 01 PM" src="https://user-images.githubusercontent.com/99091066/154823596-55762c27-ec67-4288-bfe6-fddb75748ddf.png">
 
@@ -38,7 +42,18 @@ ModernAdvisor uses low cost, exchange traded funds to customize portfolios, suit
 
 ## Business Activities
 
-The company was looking to address the need for cheaper services within the industry. Many of their competitors charge higher mangement fees or MER (Management Expense Ratio). However once these metrics are compared to the competitors in the industry, the fees are either on par or higher than their competiors. Below is a comparison of fee percentages for $2,500, $10,000, and $100,000 accounts. 
+The company was looking to address the need for cheaper services within the industry. 
+
+At first glance, one would assume the intended customer would be individuals who are well-versed and trust technology, individuals who could have lower income hence the push for lower fees, and targeted towards Millenials (emphasizing their option for socially responsible portfolios as Millenials typically invest in socially responsible stocks [Source](https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/). However it is apparent, through their new account/sign up website, that ModernAdvisor is looking to take on seasoned investors and those individuals that can be "vouched" for. If one were to try creating an account, they are prompted by the following message 
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/154868925-f2978f27-48dd-4a47-9264-0a715b4961d8.png">
+
+   > Users are required to enter in a referral code from a financial planner, friend, or referral. 
+
+This could have a signficant negative impact on their business. By creating new accounts through referrals, they are limiting their customer base and in a sense, "gatekeeping" their service. Their website promotes transparency and cost effective services however make it incredibly difficult to access said services. 
+
+
+Many of their competitors charge higher mangement fees or MER (Management Expense Ratio). However once these metrics are compared to the competitors in the industry, the fees are either on par or higher than their competiors. Below is a comparison of fee percentages for $2,500, $10,000, and $100,000 accounts. 
 
 <img width="761" alt="Screen Shot 2022-02-20 at 6 10 29 PM" src="https://user-images.githubusercontent.com/99091066/154868529-d09b781f-216c-4a78-a18e-6776efca794b.png">
 
@@ -51,15 +66,6 @@ The company was looking to address the need for cheaper services within the indu
 <img width="770" alt="Screen Shot 2022-02-20 at 6 11 10 PM" src="https://user-images.githubusercontent.com/99091066/154868543-d6152772-cab7-485e-8eca-e7ae9e908d8f.png">
 
    > In this scenario, ModernAdvisor's fee ratio falls in between the two major competitors. [Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
-
-
-At first glance, one would assume the intended customer would be individuals who are well-versed and trust technology, individuals who could have lower income hence the push for lower fees, and targeted towards Millenials (emphasizing their option for socially responsible portfolios as Millenials typically invest in socially responsible stocks [Source](https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/). However it is apparent, through their new account/sign up website, that ModernAdvisor is looking to take on seasoned investors and those individuals that can be "vouched" for. If one were to try creating an account, they are prompted by the following message 
-
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/154868925-f2978f27-48dd-4a47-9264-0a715b4961d8.png">
-
-   > Users are required to enter in a referral code from a financial planner, friend, or referral. 
-
-This has a signficant negative impact on their business. By creating new accounts through referrals, they are limiting their customer base and in a sense, "gatekeeping" their service. Their website promotes transparency and cost effective services however make it incredibly difficult to access said services. 
 
 
 One feature setting ModernAdvisor apart from its competitors is the option to have a "trial" for their first $1,000 invested and "call" their option. In thirty days, depending on if the value of their investment increased or decreased, they have the option to opt out with no loss, or realize the gains [Source](https://www.modernadvisor.ca/trial/). This option is enticing and gives investors a peek into their possible future portfolios.
@@ -161,12 +167,4 @@ Searching the hashtag "#ModernAdvisor", generates only a handful of results. The
 
 Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, engage with other users and use that platform to promote their services. 
 
-
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Modernadvisor and their trial feature in theory is a great idea, however their execution and marketin technologies should be updated and more relevant to current times in order to reach a wider consumer base.
