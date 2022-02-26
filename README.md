@@ -168,3 +168,26 @@ Searching the hashtag "#ModernAdvisor", generates only a handful of results. The
 Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, engage with other users and use that platform to promote their services. 
 
 Modernadvisor and their trial feature in theory is a great idea, however their execution and marketin technologies should be updated and more relevant to current times in order to reach a wider consumer base.
+
+
+
+## Websites Used
+
+https://www.modernadvisor.ca/our-portfolios/
+https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/
+https://www.emarketer.com/content/young-investors-drove-robo-advisor-use
+https://www.ratehub.ca/blog/management-expense-ratio-definition/
+https://youngandthrifty.ca/complete-guide-to-canadas-robo-advisors/
+https://www.crunchbase.com/organization/modernadvisor/company_financials
+https://wealthawesome.com/best-robo-advisor-canada/
+https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/
+https://www.venturecapitaljournal.com/online-investment-manager-modernadvisor-nets-2-2-mln-from-angels/
+https://www.globenewswire.com/en/news-release/2015/09/23/1010649/0/en/ModernAdvisor-Raises-2-2M-to-Disrupt-Investment-Management-in-Canada.html
+https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a
+https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf
+https://justcoded.com/blog/rise-of-robo-advisors-market-size-performance-and-future-trends/
+https://documents1.worldbank.org/curated/en/275041551196836758/pdf/Robo-Advisors-Investing-through-Machines.pdf
+https://www.savvynewcanadians.com/modernadvisor-review/
+https://www.ratehub.ca/investing/robo-advisors
+https://wealthawesome.com/best-robo-advisor-canada/
+https://mobile.twitter.com/ModernAdvsr
