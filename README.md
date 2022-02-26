@@ -8,7 +8,8 @@ The finance industry has changed drastically over the past few decades. The rise
 
 ## Overview and Origin
 
-Navid Boostani wanted to address the need in the markets for cheaper services that charged minimal fees while also wanting to provide exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. 
+Navid Boostani wanted to address the need in the markets for cheaper services that charged minimal fees while also wanting to provide exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. In January 2020 ModernAdvisor was acquired by Guardian Capital, a Canadian financial services company that grossed $97.48 million in the third quarter of 2021 [Source](https://ycharts.com/companies/GCG.A.TO/revenues)
+
 
 <img width="786" alt="Screen Shot 2022-02-19 at 4 17 47 PM" src="https://user-images.githubusercontent.com/99091066/154819375-df3a2bd2-9090-4551-951b-a193949e9cc8.png">
 
@@ -191,3 +192,4 @@ https://www.savvynewcanadians.com/modernadvisor-review/
 https://www.ratehub.ca/investing/robo-advisors
 https://wealthawesome.com/best-robo-advisor-canada/
 https://mobile.twitter.com/ModernAdvsr
+https://www.globenewswire.com/news-release/2020/01/30/1977625/0/en/Guardian-Capital-Agrees-to-Acquire-Majority-Interest-in-Leading-Canadian-Digital-Advisor.html
