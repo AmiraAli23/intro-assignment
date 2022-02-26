@@ -119,9 +119,11 @@ Below is a chart that shows the MER and management fees charged by the leading r
 Another metric to compare results is the after fee annualized total returns. Below are the returns for one, three, and five year growth portfolios.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155825830-b667ba1d-957c-487f-bb2e-1c030ab03a79.png">
+
    > ModernAdvisor outperforms its competitors for a one year portfolio.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155825855-5700df2a-886e-4006-b51a-a33eaa64a80a.png">
+
    > ModernAdvisor performs somewhere in between its competitors for the three year portfolio. 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155825929-a55d48c9-00cd-4b10-84c6-e97fc8c7046b.png">
@@ -133,6 +135,33 @@ Another metric to compare results is the after fee annualized total returns. Bel
 Through these tables, it is shown that ModernAdvisor growth portfolios held for a longer period of time do not perform as well as their competitors. This might sway the investor away from ModernAdvisor's services if they are looking to invest longer term. Short term investors might see the one year returns and be more likely to use their services. 
 
 ## Recommendations
+
+### Main Issues : Advertising & Outreach 
+
+For a company that claims to be "Modern", their website and features are outdated. Their website is dull and it is difficult to gather any information directly from the source. The lack of transparency contradicts their [claims](https://www.modernadvisor.ca/advantages/) of being transparent. Their website should have more information regarding their assets held under management, the number of clients they have, as well as their financials. 
+
+I suggest for the company to be more inclusive. When trying to sign up for an account, you are prompted with the following message.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826232-a1efe061-156f-43b5-b283-a0c2d1dcf506.png">
+
+The reason why apps like Wealthsimple are wildly successful is because of their inclusivity. Investors from all different income brackets and social demographics are given the opportunity to invest whereas this seems like they are very selective to who’s portfolio the want to manage. They are limiting their own potential by being very selective with their clients.
+
+Outreach and Advertising are the main issues with this company. It is difficult for a company to get new clients if they aren't providing any marketing material. Apps such as Wealthsimple utilize platforms such as TikTok and YouTube to advertise their services. With millenials and Gen Z becoming more interesting in investing, it is important to ensure all demographics of the markets are reached. They currently have a blog on their website which is very outdated. Generally people aren't interested in reading a large amount of text, the shorter the better or replace that entirely with visuals. It is important to break down complex information for users so its easily understandable.
+
+TikTok would be an ideal platform that they could use to advertize their services and get the younger generations engaged and interested in investing. Currently, they are waiting for people to find them when it should be the other way around. 
+
+Robo-advising is generally targeted towards novice investors and generations that grew up around technology, their marketing and website should reflect as such.
+Investors who are more seasoned might be less inclined to use their services since they aren't using services that they haven't seen before. The main feature setting them apart from their competitors is their trial feature which the details have to be searched for and found on their site. 
+
+ModernAdvisor should utilize other marketing technologies to not only reflect their name, but to reach a wider consumer base. Below is what they currently use for their marketing technologies. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a)
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826540-d9e9a4f4-f07b-4073-93cf-9f565c2297d2.png">
+
+Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021.
+
+Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, engage with other users and use that platform to promote their services. 
+
+
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
