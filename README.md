@@ -103,11 +103,34 @@ As technology is becoming more integrated in each industry, robo advising has be
 
 ## Results
 
-* What has been the business impact of this company so far?
+ModernAvisor allows its users the option to invest in a socially responsible manner. As mentioned earlier, the markets have seen a higher demand for socially responsible options. ModernAdvisor recognized the need and emphasized the importance of ESG investing on their website. As stated on their site, they do not invest in companies that are involved in producing tobacco or weapons. [Source](https://www.modernadvisor.ca/socially-responsible-investing/) . Making these products more available to investors will help the environement and defund socially irresponsible companies. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+MER refers to the Management Expense Ratio and is defined as the cost to manage ivestments [Source](https://www.rbcgam.com/en/ca/learn-plan/types-of-investments/what-is-a-management-expense-ratio-mer/detail) 
+
+Robo-advising companies charge an MER on top of their existing management fees. According to [Rate Hub](https://www.ratehub.ca/blog/management-expense-ratio-definition/), the average MER that is imposed by Robo-advising companies is around 0.5%. 
+
+Below is a chart that shows the MER and management fees charged by the leading robo-advising companies. Modernadvisor is shown at the end. 
+
+<img width="553" alt="Screen Shot 2022-02-25 at 9 27 49 PM" src="https://user-images.githubusercontent.com/99091066/155825488-8dbbfb98-b297-4b3f-b4bd-da52a64f2550.png">
+   
+   > Compared to their biggest competitors, WealthSimple and RBC InvestEase, ModernAdvisor's MER is on par, if not higher. 
+
+Another metric to compare results is the after fee annualized total returns. Below are the returns for one, three, and five year growth portfolios.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155825830-b667ba1d-957c-487f-bb2e-1c030ab03a79.png">
+   > ModernAdvisor outperforms its competitors for a one year portfolio.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155825855-5700df2a-886e-4006-b51a-a33eaa64a80a.png">
+   > ModernAdvisor performs somewhere in between its competitors for the three year portfolio. 
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155825929-a55d48c9-00cd-4b10-84c6-e97fc8c7046b.png">
+
+   > For the five year portfolios, ModernAdvisor underperforms compared to their competitors. 
+
+[Tables Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
+
+Through these tables, it is shown that ModernAdvisor growth portfolios held for a longer period of time do not perform as well as their competitors. This might sway the investor away from ModernAdvisor's services if they are looking to invest longer term. Short term investors might see the one year returns and be more likely to use their services. 
 
 ## Recommendations
 
