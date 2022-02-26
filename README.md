@@ -83,9 +83,23 @@ The technology that ModernAdvisor utilizes is not showcased or mentioned on thei
 
 ModernAdvisor is in the "robo-advising" domain of Fintech. Robo-advising is a technological services that uses formulas, algorithms and other code to produce investment advice and portfolios. Users are reequired to fill out a questionairre that gathers information regarding income, risk appetite, financial goals, and other demographic information. The more extensive the questionairre is, the better as it will better suit the investor's needs. 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+As technology is becoming more integrated in each industry, robo advising has been on the rise since its introduction in 2008 [Source](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp). Below is a graph showing the value of assets under management (AuM) by robo advisors from 2018 to a projected 2023. 
 
-* What are the other major companies in this domain?
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155822630-63bec423-af85-4940-9eff-098bf893c9de.png">
+
+   > [Source](https://documents1.worldbank.org/curated/en/275041551196836758/pdf/Robo-Advisors-Investing-through-Machines.pdf)
+   
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155822679-d7ca6471-0aa4-4f37-8dea-99bd55016edd.png">
+   > The above graph shows the robo-advisor account holder projections. They are projecting a downward trend because of the rise in self managed services that institutions like BMO and Scotiabank offer e.g BMO InvestorLine. Because its self managed, it is commission-free and generally a lot cheaper than robo advisors. 
+   
+   > [Source](https://www.emarketer.com/content/young-investors-drove-robo-advisor-use) 
+
+## Competitors 
+
+<img width="325" alt="Screen Shot 2022-02-25 at 8 39 35 PM" src="https://user-images.githubusercontent.com/99091066/155823872-8d89b64f-cdb8-4cb9-8663-cd0a27feeefc.png">
+
+   > Above are the logos of the major competitors in the Robo advising industry. 
+   > *From Left to Right* : BMO Smartfolio, WealthSimple, Wealthfront, and RBC InvestEase. 
 
 ## Results
 
