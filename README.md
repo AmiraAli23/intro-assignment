@@ -77,7 +77,7 @@ Regarding the service charges, the claim is that they are lower than competitors
    > In this scenario, ModernAdvisor's fee ratio falls in between the two major competitors. [Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
 
 
-One feature that sets ModernAdvisor apart from its competitors is the option to have a "trial" for their first $1,000 invested and "call" their option. In thirty days, depending on if the value of their investment increased or decreased, they have the option to opt out with no loss, or realize the gains [Source](https://www.modernadvisor.ca/trial/). This option is enticing and gives investors a peek into their possible future portfolios.
+One feature that sets ModernAdvisor apart from its competitors is the option to have a "trial" for their first $1,000 invested and "call" their option. In thirty days, depending on if the value of their investment increased or decreased, they have the option to opt out with no loss, or realize the gains [Source](https://www.modernadvisor.ca/trial/). This option is enticing and gives investors a peek into their possible future portfolios. Another perk they publicize is that their portfolios are managed by CFA charterholders [source](https://www.modernadvisor.ca/advantages/). 
 
 The technology that ModernAdvisor utilizes is not showcased or mentioned on their site. Navigating through the site, it is apparent they use "Intercom" as a channel to communicate with investors and possible investors. 
 
@@ -137,7 +137,7 @@ As technology is becoming more integrated in each industry, robo-advising has be
 * Assets Under Management (AuM)
    * BMO : Being Canada's first bank, they have over $600 billion in assets
    * RBC InvestEase : ~ $60 billion in assets under management 
-   * Wealthsimple : around $3 billion in assets. 
+   * Wealthsimple : around $15 billion in assets, according to their [site](https://www.wealthsimple.com/en-ca/about/who-we-are)
    * ModernAdvisor : Information cannot be found at this time.
    * Wealthfront ~ $20 billion  
 
@@ -198,9 +198,10 @@ ModernAdvisor should utilize other marketing technologies to not only reflect th
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826540-d9e9a4f4-f07b-4073-93cf-9f565c2297d2.png">
 
-Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021. In contrast to WealthSimple that has 84.1 thousand followers and is active on their twitter page. A competent marketing stragety is decider of the sucess of a company. Wealthsimple has an aggresive marketing strategy that targets users on social media. They now manage over $6billion in assets, which can largely be accredited to their marketing techniques [source](https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/). If Modernadvisor took to other social media platforms, they could gain traction.
+Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021. In contrast to WealthSimple that has 84.1 thousand followers and is active on their twitter page. Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services.
+A competent marketing stragety is decider of the sucess of a company. Wealthsimple has an aggresive marketing strategy that targets users on social media. They now manage over $15 billion in assets, which can largely be accredited to their marketing techniques [source](https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/). They also have a campaign called "money diaries" that involves major celebrities like Kim Kardashian, John Hamm, to name a few [source](https://www.wealthsimple.com/en-ca/magazine/money-diaries). If Modernadvisor took to other social media platforms, they could gain traction as well.
 
-Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services. 
+ModernAdvisor does have an active YouTube page with 15 videos, last uploaded in November 2021. They have client testimonials, and other informative videos on how their fees are calculated. They should continue to put more focus on these channels to gain viewers and traffic on their sites.  
 
 ModernAdvisor and their trial feature, in theory, is a great idea, however their execution and marketing technologies need to be updated to become more relevant and accessible in order to reach a wider consumer base.
 
@@ -259,3 +260,5 @@ ModernAdvisor and their trial feature, in theory, is a great idea, however their
 25. https://youngandthrifty.ca/rbc-investease-review/#:~:text=Best%2DIn%2DClass%20Investments%3A,billion%20in%20assets%20under%20management.
 
 26. https://www.businessinsider.com/wealthfront-review
+
+27. https://www.youtube.com/channel/UCqr3rCeSgG8cm-Pp5zi0lrA/videos
