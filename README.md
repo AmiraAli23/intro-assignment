@@ -143,7 +143,7 @@ As technology is becoming more integrated in each industry, robo-advising has be
 ModernAvisor allows its users the option to invest in a socially responsible manner. As mentioned earlier, the markets have seen a higher demand for socially responsible options. ModernAdvisor recognized the need and emphasized the importance of ESG investing on their website. As stated on their site, they do not invest in companies that are involved in producing tobacco or weapons. [Source](https://www.modernadvisor.ca/socially-responsible-investing/) . Making these products more available to investors will help the environement and defund socially irresponsible companies. 
 
 
-MER refers to the Management Expense Ratio and is defined as the cost to manage ivestments [Source](https://www.rbcgam.com/en/ca/learn-plan/types-of-investments/what-is-a-management-expense-ratio-mer/detail) 
+MER refers to the Management Expense Ratio and is defined as the cost to manage investments [Source](https://www.rbcgam.com/en/ca/learn-plan/types-of-investments/what-is-a-management-expense-ratio-mer/detail) 
 
 Robo-advising companies charge an MER on top of their existing management fees. According to [Rate Hub](https://www.ratehub.ca/blog/management-expense-ratio-definition/), the average MER that is imposed by Robo-advising companies is around 0.5%. 
 
