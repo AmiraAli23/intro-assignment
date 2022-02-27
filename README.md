@@ -118,6 +118,31 @@ As technology is becoming more integrated in each industry, robo-advising has be
    > Above are the logos of the major competitors in the Robo advising industry. 
    > *From Left to Right* : BMO Smartfolio, WealthSimple, Wealthfront, and RBC InvestEase. 
 
+### Competitor Metrics & Comparisons 
+
+* Minimum Account Size 
+   * BMO : $1,000
+   * RBC InvestEase : $0 to create a new account
+   * Wealthsimple : none
+   * ModernAdvisor : $1,000
+   * Wealthfront $500
+
+* Accounts Offered 
+   * BMO: Non-Reg, TFSA, RRSP, RESP 
+   * RBC InvestEase: Non-Reg, TFSA, RRSP
+   * Wealthsimple: Non-Reg, TFSA, RRSP, RRIF, RESP 
+   * ModernAdvisor: Non-Reg, RRSP, RRIF, RESP, RDSP
+   * Wealthfront: High interest Non-reg accounts (Individual, joint, trust) , Individual Retirement        accounts 
+
+* Assets Under Management (AuM)
+   * BMO : Being Canada's first bank, they have over $600 billion in assets
+   * RBC InvestEase : ~ $60 billion in assets under management 
+   * Wealthsimple : around $3 billion in assets. 
+   * ModernAdvisor : Information cannot be found at this time.
+   * Wealthfront ~ $20 billion  
+
+[Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
+
 ## Results
 
 ModernAvisor allows its users the option to invest in a socially responsible manner. As mentioned earlier, the markets have seen a higher demand for socially responsible options. ModernAdvisor recognized the need and emphasized the importance of ESG investing on their website. As stated on their site, they do not invest in companies that are involved in producing tobacco or weapons. [Source](https://www.modernadvisor.ca/socially-responsible-investing/) . Making these products more available to investors will help the environement and defund socially irresponsible companies. 
@@ -222,5 +247,15 @@ ModernAdvisor and their trial feature, in theory, is a great idea, however their
 19. https://www.globenewswire.com/news-release/2020/01/30/1977625/0/en/Guardian-Capital-Agrees-to-Acquire-Majority-Interest-in-Leading-Canadian-Digital-Advisor.html
 
 20. https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/
-21. 
-22. 
+
+21. https://support.wealthfront.com/hc/en-us/articles/210994423--Account-minimums-to-invest-with-Wealthfront
+
+22. https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/
+
+23. https://support.wealthfront.com/hc/en-us/articles/211007443-What-types-of-accounts-does-Wealthfront-currently-support-
+
+24. https://www.wealthsimple.com/en-ca/learn/wealthsimple-vs-bmo-smartfolio#about_bmo_wealthsimple
+
+25. https://youngandthrifty.ca/rbc-investease-review/#:~:text=Best%2DIn%2DClass%20Investments%3A,billion%20in%20assets%20under%20management.
+
+26. https://www.businessinsider.com/wealthfront-review
