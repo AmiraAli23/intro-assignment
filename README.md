@@ -220,3 +220,7 @@ ModernAdvisor and their trial feature, in theory, is a great idea, however their
 18. https://mobile.twitter.com/ModernAdvsr
 
 19. https://www.globenewswire.com/news-release/2020/01/30/1977625/0/en/Guardian-Capital-Agrees-to-Acquire-Majority-Interest-in-Leading-Canadian-Digital-Advisor.html
+
+20. https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/
+21. 
+22. 
