@@ -106,6 +106,7 @@ As technology is becoming more integrated in each industry, robo-advising has be
    > [Source](https://documents1.worldbank.org/curated/en/275041551196836758/pdf/Robo-Advisors-Investing-through-Machines.pdf)
    
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155822679-d7ca6471-0aa4-4f37-8dea-99bd55016edd.png">
+
    > The above graph shows the robo-advisor account holder projections. They are projecting a downward trend because of the rise in self managed services that institutions like BMO and Scotiabank offer e.g BMO InvestorLine. Because its self managed, it is commission-free and generally a lot cheaper than robo advisors. 
    
    > [Source](https://www.emarketer.com/content/young-investors-drove-robo-advisor-use) 
