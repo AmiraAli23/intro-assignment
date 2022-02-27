@@ -35,11 +35,6 @@ As shown on their website, the risk levels vary from 1-10 and the performance ba
 
    > The dip in early 2020 can be explained because of the Covid-19 pandemic and the mass uncertainty/volatility that followed.
 
-### Types of accounts offered 
-* Registered (RRSP, RESP, TFSA, LIRA)
-* Non-Registered ( Open / Cash ) 
-[Source](https://www.savvynewcanadians.com/modernadvisor-review/)
-
 
 ## Business Activities
 
