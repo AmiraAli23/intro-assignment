@@ -201,7 +201,10 @@ ModernAdvisor should utilize other marketing technologies to not only reflect th
 Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021. In contrast to WealthSimple that has 84.1 thousand followers and is active on their twitter page. Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services.
 A competent marketing stragety is decider of the sucess of a company. Wealthsimple has an aggresive marketing strategy that targets users on social media. They now manage over $15 billion in assets, which can largely be accredited to their marketing techniques [source](https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/). They also have a campaign called "money diaries" that involves major celebrities like Kim Kardashian, John Hamm, to name a few [source](https://www.wealthsimple.com/en-ca/magazine/money-diaries). If Modernadvisor took to other social media platforms, they could gain traction as well.
 
-ModernAdvisor does have an active YouTube page with 15 videos, last uploaded in November 2021. They have client testimonials, and other informative videos on how their fees are calculated. They should continue to put more focus on these channels to gain viewers and traffic on their sites.  
+ModernAdvisor does have an active YouTube page with 15 videos, last uploaded in November 2021. They have client testimonials, and other informative videos on how their fees are calculated. They should continue to put more focus on these channels to gain viewers and traffic on their sites. Their subscriber counr is unavailable on their Youtube page and if searched on a common Youtube tracking page "Social Blade", it is shown that their subscriber count is hidden. However according to their site, the total views they have received on their videos is 37,283 [Source](https://socialblade.com/youtube/search/search?query=ModernAdvisor&error=not-found) 
+
+<img width="1260" alt="Screen Shot 2022-02-27 at 3 51 34 PM" src="https://user-images.githubusercontent.com/99091066/155899431-0b4e0c41-a406-443f-ace6-e5dcf13563c7.png">
+
 
 ModernAdvisor and their trial feature, in theory, is a great idea, however their execution and marketing technologies need to be updated to become more relevant and accessible in order to reach a wider consumer base.
 
@@ -262,3 +265,5 @@ ModernAdvisor and their trial feature, in theory, is a great idea, however their
 26. https://www.businessinsider.com/wealthfront-review
 
 27. https://www.youtube.com/channel/UCqr3rCeSgG8cm-Pp5zi0lrA/videos
+
+28. https://socialblade.com/youtube/search/search?query=ModernAdvisor&error=not-found
