@@ -181,24 +181,42 @@ ModernAdvisor and their trial feature, in theory, is a great idea, however their
 
 
 
-## Websites Used
+## References
 
-https://www.modernadvisor.ca/our-portfolios/
-https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/
-https://www.emarketer.com/content/young-investors-drove-robo-advisor-use
-https://www.ratehub.ca/blog/management-expense-ratio-definition/
-https://youngandthrifty.ca/complete-guide-to-canadas-robo-advisors/
-https://www.crunchbase.com/organization/modernadvisor/company_financials
-https://wealthawesome.com/best-robo-advisor-canada/
-https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/
-https://www.venturecapitaljournal.com/online-investment-manager-modernadvisor-nets-2-2-mln-from-angels/
-https://www.globenewswire.com/en/news-release/2015/09/23/1010649/0/en/ModernAdvisor-Raises-2-2M-to-Disrupt-Investment-Management-in-Canada.html
-https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a
-https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf
-https://justcoded.com/blog/rise-of-robo-advisors-market-size-performance-and-future-trends/
-https://documents1.worldbank.org/curated/en/275041551196836758/pdf/Robo-Advisors-Investing-through-Machines.pdf
-https://www.savvynewcanadians.com/modernadvisor-review/
-https://www.ratehub.ca/investing/robo-advisors
-https://wealthawesome.com/best-robo-advisor-canada/
-https://mobile.twitter.com/ModernAdvsr
-https://www.globenewswire.com/news-release/2020/01/30/1977625/0/en/Guardian-Capital-Agrees-to-Acquire-Majority-Interest-in-Leading-Canadian-Digital-Advisor.html
+1. https://www.modernadvisor.ca/our-portfolios/
+
+2. https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/
+
+3. https://www.emarketer.com/content/young-investors-drove-robo-advisor-use
+
+4. https://www.ratehub.ca/blog/management-expense-ratio-definition/
+
+5. https://youngandthrifty.ca/complete-guide-to-canadas-robo-advisors/
+
+6. https://www.crunchbase.com/organization/modernadvisor/company_financials
+
+7. https://wealthawesome.com/best-robo-advisor-canada/
+
+8. https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/
+
+9. https://www.venturecapitaljournal.com/online-investment-manager-modernadvisor-nets-2-2-mln-from-angels/
+
+10. https://www.globenewswire.com/en/news-release/2015/09/23/1010649/0/en/ModernAdvisor-Raises-2-2M-to-Disrupt-Investment-Management-in-Canada.html
+
+11. https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a
+
+12. https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf
+
+13. https://justcoded.com/blog/rise-of-robo-advisors-market-size-performance-and-future-trends/
+
+14. https://documents1.worldbank.org/curated/en/275041551196836758/pdf/Robo-Advisors-Investing-through-Machines.pdf
+
+15. https://www.savvynewcanadians.com/modernadvisor-review/
+
+16. https://www.ratehub.ca/investing/robo-advisors
+
+17. https://wealthawesome.com/best-robo-advisor-canada/
+
+18. https://mobile.twitter.com/ModernAdvsr
+
+19. https://www.globenewswire.com/news-release/2020/01/30/1977625/0/en/Guardian-Capital-Agrees-to-Acquire-Majority-Interest-in-Leading-Canadian-Digital-Advisor.html
