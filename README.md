@@ -4,11 +4,11 @@
 
 ## Introduction
 
-The finance industry has changed drastically over the past few decades. The rise in technology has pushed companies within the industry to explore new innovative ways of doing business, while maintaining the quality of services that are provided. Digitalizing services increase operational efficiencies by reducing the time it takes to execute certain tasks, as well reducing costs by removing the middle-man or intermediary. Developing smartphone apps for these services have the potential to increase the target market and give more people the opportunity to invest, as it's now easily accessible. ModernAdvisor is a company operating under the Robo-Advising fintech domain.
+The finance industry has changed dramatically over the last few decades. The rise in technology has pushed companies within the industry to explore new innovative ways of doing business, while maintaining the quality of services that are provided. Digitalizing services increases operational efficiencies by reducing the time that it takes to execute certain functions, as well as reducing costs by removing the intermediary or "middle-man". Developing smartphone apps for these services has the potential to widen the target market and give more people the opportunity to invest, as it makes investing more easily accessible. ModernAdvisor, which operates under the Robo-Advising fintech domain, is a product of this modernization of finance.
 
 ## Overview and Origin
 
-Navid Boostani wanted to address the need in the markets for cheaper services that charged minimal fees while also wanting to provide exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. In January 2020 ModernAdvisor was acquired by Guardian Capital, a Canadian financial services company that grossed $97.48 million in the third quarter of 2021 [Source](https://ycharts.com/companies/GCG.A.TO/revenues)
+Navid Boostani wanted to address the need in the market for low-cost services. while also wanting to provide exceptional service. In 2013, he founded ModernAdvisor which is an online investment company that allows investors to build portfolios and manage their invesments. In January 2020, ModernAdvisor was acquired by Guardian Capital, a Canadian financial services company that grossed $97.48 million in the third quarter of 2021 [Source](https://ycharts.com/companies/GCG.A.TO/revenues)
 
 
 <img width="786" alt="Screen Shot 2022-02-19 at 4 17 47 PM" src="https://user-images.githubusercontent.com/99091066/154819375-df3a2bd2-9090-4551-951b-a193949e9cc8.png">
@@ -17,19 +17,19 @@ Navid Boostani wanted to address the need in the markets for cheaper services th
    
 
 
-Their services have the capability to rebalance their customer’s portoflios in order to adjust to market conditions. This is to ensure each investor's portfolio is still suitable. If the investments in the account deviate more than 5% from their targets, there is an automatic rebalancing that is triggered that shifts the weights back to the target. [Source](https://help.modernadvisor.ca/en/articles/4199089-how-does-rebalancing-work)
+Included in the services offered by the company is the ability rebalance their customer’s portoflios in order to adjust to market conditions. This is done to ensure each investor's portfolio is still suitable. If the investments in the account deviate more than 5% from their targets, an automatic rebalancing is triggered to shift the weights back to the target. [Source](https://help.modernadvisor.ca/en/articles/4199089-how-does-rebalancing-work)
 
-They raised $2.2 Million in funding in 2015, provided by their lead investor Moray Keith and Conconi Growth Partners, and began operating in 2016. [The information below](https://www.crunchbase.com/organization/modernadvisor/company_financials) was retreived through CrunchBase. 
+They raised $2.2 Million in funding in 2015 through their lead investor, Moray Keith and Conconi Growth Partners, and began operating in 2016. [The information below](https://www.crunchbase.com/organization/modernadvisor/company_financials) was retreived through CrunchBase. 
 
 <img width="1205" alt="Screen Shot 2022-02-19 at 7 08 52 PM" src="https://user-images.githubusercontent.com/99091066/154823394-b0811457-0631-4ec5-8244-39784524d5f2.png">
 
-### How it works
+### How it Works
 
-ModernAdvisor uses low cost, exchange traded funds to customize portfolios, suited to each of their customer's needs. 
+ModernAdvisor uses low-cost, exchange traded funds to customize portfolios, suited to each customer's needs. 
 
-They offer 2 portfolios; core and socially responsible. Socially resposible portfolios invest in companies that don't have a negative impact on the environement and companies who are not involved in the production of weaponry and tobacco.
+They offer 2 portfolios: core and socially responsible. Socially resposible portfolios invest in companies that don't have a negative impact on the environment, and companies who are not involved in the production of weaponry and tobacco.
 
-As shown on their website, the risk levels vary from 1-10 and their performance based on those risk levels can be visualized. For example, a socially responsible portfolio with a risk level of 1's performance can be seen below. 
+As shown on their website, the risk levels vary from 1-10 and the performance based on these risk levels can be visualized. For example, below is the performance of a socially responsible portfolio with a risk level of `1`:. 
 
 <img width="799" alt="Screen Shot 2022-02-19 at 7 21 01 PM" src="https://user-images.githubusercontent.com/99091066/154823596-55762c27-ec67-4288-bfe6-fddb75748ddf.png">
 
@@ -43,18 +43,26 @@ As shown on their website, the risk levels vary from 1-10 and their performance 
 
 ## Business Activities
 
-The company was looking to address the need for cheaper services within the industry. 
+ModernAdvisor's [mission statement](https://www.modernadvisor.ca/team/) declares the goal of "help[ing] Canadians gain access to high quality, low-cost investment advice – regardless of their net worth."
 
-At first glance, one would assume the intended customer would be individuals who are well-versed and trust technology, individuals who could have lower income hence the push for lower fees, and targeted towards Millenials (emphasizing their option for socially responsible portfolios as Millenials typically invest in socially responsible stocks [Source](https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/). However it is apparent, through their new account/sign up website, that ModernAdvisor is looking to take on seasoned investors and those individuals that can be "vouched" for. If one were to try creating an account, they are prompted by the following message 
+Presented with this information, the following assumptions can be made regarding the target customer:
+
+* Technologically literate
+* Novice investor
+* Diverse net-worth
+* Millenial 
+   * An emphasis is placed on socially responsible portfolios, which are typically sought after by Millenials [Source](https://fortune.com/2021/11/18/millennials-genz-investing-markets-wealth-transfer/). 
+
+However, it is apparent through their new account/sign up website, that ModernAdvisor is looking to take on seasoned investors and those individuals that can be "vouched" for. If one were to try creating an account, they are met with the following message 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/154868925-f2978f27-48dd-4a47-9264-0a715b4961d8.png">
 
    > Users are required to enter in a referral code from a financial planner, friend, or referral. 
 
-This could have a signficant negative impact on their business. By creating new accounts through referrals, they are limiting their customer base and in a sense, "gatekeeping" their service. Their website promotes transparency and cost effective services however make it incredibly difficult to access said services. 
+This may have a signficant negative impact on their business. Limiting new clients through referrals, narrows their customer base entirely, and in a sense, "gatekeeps" their service. So, while their mission statement seems to widen the net for many potential investors, their practices seem to go against this entirely.
 
 
-Many of their competitors charge higher mangement fees or MER (Management Expense Ratio). However once these metrics are compared to the competitors in the industry, the fees are either on par or higher than their competiors. Below is a comparison of fee percentages for $2,500, $10,000, and $100,000 accounts. 
+Regarding the service charges, the claim is that they are lower than competitors' fees or MER (Management Expense Ratio,) however, once these metrics are compared, it is apparent that the fees are either on par or higher than their competiors. Below is a comparison of fee percentages for $2,500, $10,000, and $100,000 accounts. 
 
 <img width="761" alt="Screen Shot 2022-02-20 at 6 10 29 PM" src="https://user-images.githubusercontent.com/99091066/154868529-d09b781f-216c-4a78-a18e-6776efca794b.png">
 
@@ -69,18 +77,19 @@ Many of their competitors charge higher mangement fees or MER (Management Expens
    > In this scenario, ModernAdvisor's fee ratio falls in between the two major competitors. [Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
 
 
-One feature setting ModernAdvisor apart from its competitors is the option to have a "trial" for their first $1,000 invested and "call" their option. In thirty days, depending on if the value of their investment increased or decreased, they have the option to opt out with no loss, or realize the gains [Source](https://www.modernadvisor.ca/trial/). This option is enticing and gives investors a peek into their possible future portfolios.
+One feature that sets ModernAdvisor apart from its competitors is the option to have a "trial" for their first $1,000 invested and "call" their option. In thirty days, depending on if the value of their investment increased or decreased, they have the option to opt out with no loss, or realize the gains [Source](https://www.modernadvisor.ca/trial/). This option is enticing and gives investors a peek into their possible future portfolios.
 
 The technology that ModernAdvisor utilizes is not showcased or mentioned on their site. Navigating through the site, it is apparent they use "Intercom" as a channel to communicate with investors and possible investors. 
 
 <img align="centre" src="https://user-images.githubusercontent.com/99091066/154779648-1aa9bc5d-4483-4c2b-81df-55e725b6290f.png">
    
    > A summary of the technologies used by the company. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a). 
-   * Angularis is a web framework that is used to host websites. 
-   * Javascript helps build web apps, mostly used for functions. 
-   * MySQL and PostgreSQL are both systems that organize data. 
-   * Font Awesome is used to design logos and fonts for websites and icons. 
-   * Ruby on Rails is used to build websites. 
+   
+   * `AngularJS` is a web framework for dynamic web apps. 
+   * `Javascript` is a programming language that is used widely in webpage or app development. 
+   * `MySQL` and `PostgreSQL` are use to store and/or organize data in a database. 
+   * `Font Awesome` is used to design logos and fonts for websites and icons. 
+   * `Ruby on Rails` is another web framework for dynamic web apps. 
 
 <img width="405" alt="Screen Shot 2022-02-18 at 9 02 06 PM" src="https://user-images.githubusercontent.com/99091066/154781849-49f48b56-0dc3-4ef3-84c7-1720211b5681.png">
 
@@ -88,9 +97,9 @@ The technology that ModernAdvisor utilizes is not showcased or mentioned on thei
 
 ## Landscape
 
-ModernAdvisor is in the "robo-advising" domain of Fintech. Robo-advising is a technological services that uses formulas, algorithms and other code to produce investment advice and portfolios. Users are reequired to fill out a questionairre that gathers information regarding income, risk appetite, financial goals, and other demographic information. The more extensive the questionairre is, the better as it will better suit the investor's needs. 
+ModernAdvisor is in the "robo-advising" domain of Fintech. Robo-advising includes technological services that use formulas, algorithms, and other code to produce investment advice and portfolios. Users are required to fill out a questionnaire that gathers information regarding income, risk appetite, financial goals, and other demographic information. A more extensive questionnaire will better understand the investor's needs. 
 
-As technology is becoming more integrated in each industry, robo advising has been on the rise since its introduction in 2008 [Source](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp). Below is a graph showing the value of assets under management (AuM) by robo advisors from 2018 to a projected 2023. 
+As technology is becoming more integrated in each industry, robo-advising has been on the rise since its introduction in 2008 [Source](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp). Below is a graph showing the value of assets under management (AuM) by robo advisors from 2018 to a projected 2023. 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155822630-63bec423-af85-4940-9eff-098bf893c9de.png">
 
@@ -145,20 +154,19 @@ Through these tables, it is shown that ModernAdvisor growth portfolios held for 
 
 ### Main Issues : Advertising & Outreach 
 
-For a company that claims to be "Modern", their website and features are outdated. Their website is dull and it is difficult to gather any information directly from the source. The lack of transparency contradicts their [claims](https://www.modernadvisor.ca/advantages/) of being transparent. Their website should have more information regarding their assets held under management, the number of clients they have, as well as their financials. 
+For a company that claims to be "Modern", their website and features are fairly outdated. Their website is dull and it is difficult to gather any information directly from the source. The lack of transparency contradicts their [claims](https://www.modernadvisor.ca/advantages/) of being transparent. Their website should have more information regarding their assets held under management, the number of clients they have, as well as their financials. 
 
-I suggest for the company to be more inclusive. When trying to sign up for an account, you are prompted with the following message.
+I also recommend for the company to be more inclusive, and allow sign-ups without a referral.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826232-a1efe061-156f-43b5-b283-a0c2d1dcf506.png">
 
-The reason why apps like Wealthsimple are wildly successful is because of their inclusivity. Investors from all different income brackets and social demographics are given the opportunity to invest whereas this seems like they are very selective to who’s portfolio the want to manage. They are limiting their own potential by being very selective with their clients.
+The reason why apps like Wealthsimple are wildly successful is because of their inclusivity. Investors from diverse income brackets and social demographics are given the opportunity to invest, whereas ModernAdvisor seems to be selective of the portfolios they wish to manage. This only limits their own potential for growth.
 
-Outreach and Advertising are the main issues with this company. It is difficult for a company to get new clients if they aren't providing any marketing material. Apps such as Wealthsimple utilize platforms such as TikTok and YouTube to advertise their services. With millenials and Gen Z becoming more interesting in investing, it is important to ensure all demographics of the markets are reached. They currently have a blog on their website which is very outdated. Generally people aren't interested in reading a large amount of text, the shorter the better or replace that entirely with visuals. It is important to break down complex information for users so its easily understandable.
+Outreach and Advertising are the main issues with this company. It is difficult for a company to get new clients if they aren't providing any marketing material. Apps such as Wealthsimple utilize platforms such as TikTok and YouTube to advertise their services. With millenials and Gen Z becoming more interested in investing, it is important to ensure all demographics of the market are reached. They currently have a blog on their website, which aside from being outdated, isn't updated very frequently. Generally, people aren't interested in reading large amount of texts, and prefer visuals or short videos. It is also important to break down complex information for users to make it easily understandable.
 
-TikTok would be an ideal platform that they could use to advertize their services and get the younger generations engaged and interested in investing. Currently, they are waiting for people to find them when it should be the other way around. 
+TikTok would be an ideal platform that they could use to advertise their services and get the younger generations engaged and interested in investing. Currently, they are waiting for people to find them, when it should be the other way around. 
 
-Robo-advising is generally targeted towards novice investors and generations that grew up around technology, their marketing and website should reflect as such.
-Investors who are more seasoned might be less inclined to use their services since they aren't using services that they haven't seen before. The main feature setting them apart from their competitors is their trial feature which the details have to be searched for and found on their site. 
+Robo-advising is generally targeted towards novice investors and generations that grew up around technology, and their marketing and website should reflect as such. Seasoned investors might be less inclined to use their services, as they aren't providing a product that "hasn't been seen before". The main feature setting them apart from their competitors is their trial feature which the details have to be searched for and found on their site. 
 
 ModernAdvisor should utilize other marketing technologies to not only reflect their name, but to reach a wider consumer base. Below is what they currently use for their marketing technologies. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a)
 
@@ -166,9 +174,9 @@ ModernAdvisor should utilize other marketing technologies to not only reflect th
 
 Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021.
 
-Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, engage with other users and use that platform to promote their services. 
+Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services. 
 
-Modernadvisor and their trial feature in theory is a great idea, however their execution and marketin technologies should be updated and more relevant to current times in order to reach a wider consumer base.
+ModernAdvisor and their trial feature, in theory, is a great idea, however their execution and marketing technologies need to be updated to become more relevant and accessible in order to reach a wider consumer base.
 
 
 
