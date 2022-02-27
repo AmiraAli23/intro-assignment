@@ -173,7 +173,7 @@ ModernAdvisor should utilize other marketing technologies to not only reflect th
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826540-d9e9a4f4-f07b-4073-93cf-9f565c2297d2.png">
 
-Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021.
+Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021. In contrast to WealthSimple that has 84.1 thousand followers and is active on their twitter page. A competent marketing stragety is decider of the sucess of a company. Wealthsimple has an aggresive marketing strategy that targets users on social media. They now manage over $6billion in assets, which can largely be accredited to their marketing techniques [source](https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/). If Modernadvisor took to other social media platforms, they could gain traction.
 
 Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services. 
 
