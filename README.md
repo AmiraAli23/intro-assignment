@@ -82,7 +82,7 @@ The technology that ModernAdvisor utilizes is not showcased or mentioned on thei
    
    * `AngularJS` is a web framework for dynamic web apps. 
    * `Javascript` is a programming language that is used widely in webpage or app development. 
-   * `MySQL` and `PostgreSQL` are use to store and/or organize data in a database. 
+   * `MySQL` and `PostgreSQL` are used to store and/or organize data in a database. 
    * `Font Awesome` is used to design logos and fonts for websites and icons. 
    * `Ruby on Rails` is another web framework for dynamic web apps. 
 
@@ -116,11 +116,11 @@ As technology is becoming more integrated in each industry, robo-advising has be
 ### Competitor Metrics & Comparisons 
 
 * Minimum Account Size 
-   * BMO : $1,000
-   * RBC InvestEase : $0 to create a new account
-   * Wealthsimple : none
-   * ModernAdvisor : $1,000
-   * Wealthfront $500
+   * BMO: $1,000
+   * RBC InvestEase: $0 to create a new account
+   * Wealthsimple: none
+   * ModernAdvisor: $1,000
+   * Wealthfront: $500
 
 * Accounts Offered 
    * BMO: Non-Reg, TFSA, RRSP, RESP 
@@ -130,17 +130,17 @@ As technology is becoming more integrated in each industry, robo-advising has be
    * Wealthfront: High interest Non-reg accounts (Individual, joint, trust) , Individual Retirement        accounts 
 
 * Assets Under Management (AuM)
-   * BMO : Being Canada's first bank, they have over $600 billion in assets
-   * RBC InvestEase : ~ $60 billion in assets under management 
-   * Wealthsimple : around $15 billion in assets, according to their [site](https://www.wealthsimple.com/en-ca/about/who-we-are)
-   * ModernAdvisor : Information cannot be found at this time.
-   * Wealthfront ~ $20 billion  
+   * BMO: Being Canada's first bank, they have over $600 billion in assets
+   * RBC InvestEase: ~ $60 billion in assets under management 
+   * Wealthsimple: around $15 billion in assets, according to their [site](https://www.wealthsimple.com/en-ca/about/who-we-are)
+   * ModernAdvisor: Information cannot be found at this time.
+   * Wealthfront: ~ $20 billion  
 
 [Source](https://www.theglobeandmail.com/investing/personal-finance/article-presenting-canadas-cheapest-robo-adviser-the-best-performers-and-the/)
 
 ## Results
 
-ModernAvisor allows its users the option to invest in a socially responsible manner. As mentioned earlier, the markets have seen a higher demand for socially responsible options. ModernAdvisor recognized the need and emphasized the importance of ESG investing on their website. As stated on their site, they do not invest in companies that are involved in producing tobacco or weapons. [Source](https://www.modernadvisor.ca/socially-responsible-investing/) . Making these products more available to investors will help the environement and defund socially irresponsible companies. 
+ModernAdvisor allows its users the option to invest in a socially responsible manner. As mentioned earlier, the markets have seen a higher demand for socially responsible options. ModernAdvisor recognized the need and emphasized the importance of ESG investing on their website. As stated on their site, they do not invest in companies that are involved in producing tobacco or weapons. [Source](https://www.modernadvisor.ca/socially-responsible-investing/) . Making these products more available to investors will help the environement and defund socially irresponsible companies. 
 
 
 MER refers to the Management Expense Ratio and is defined as the cost to manage investments [Source](https://www.rbcgam.com/en/ca/learn-plan/types-of-investments/what-is-a-management-expense-ratio-mer/detail) 
@@ -181,20 +181,20 @@ I also recommend for the company to be more inclusive, and allow sign-ups withou
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826232-a1efe061-156f-43b5-b283-a0c2d1dcf506.png">
 
-The reason why apps like Wealthsimple are wildly successful is because of their inclusivity. Investors from diverse income brackets and social demographics are given the opportunity to invest, whereas ModernAdvisor seems to be selective of the portfolios they wish to manage. This only limits their own potential for growth.
+The reason why apps like Wealthsimple are wildly successful is because of their inclusivity and outreach. Investors from diverse income brackets and social demographics are given the opportunity to invest, whereas ModernAdvisor seems to be selective of the portfolios they wish to manage. This only limits their own potential for growth.
 
 Outreach and Advertising are the main issues with this company. It is difficult for a company to get new clients if they aren't providing any marketing material. Apps such as Wealthsimple utilize platforms such as TikTok and YouTube to advertise their services. With millenials and Gen Z becoming more interested in investing, it is important to ensure all demographics of the market are reached. They currently have a blog on their website, which aside from being outdated, isn't updated very frequently. Generally, people aren't interested in reading large amount of texts, and prefer visuals or short videos. It is also important to break down complex information for users to make it easily understandable.
 
 TikTok would be an ideal platform that they could use to advertise their services and get the younger generations engaged and interested in investing. Currently, they are waiting for people to find them, when it should be the other way around. 
 
-Robo-advising is generally targeted towards novice investors and generations that grew up around technology, and their marketing and website should reflect as such. Seasoned investors might be less inclined to use their services, as they aren't providing a product that "hasn't been seen before". The main feature setting them apart from their competitors is their trial feature which the details have to be searched for and found on their site. 
+Robo-advising is generally targeted towards novice investors and generations that grew up around technology, and their marketing and website should reflect such. Seasoned investors might be less inclined to use their services, as they aren't providing a product that "hasn't been seen before". The main feature setting them apart from their competitors is their trial feature which the details have to be searched for and found on their site. 
 
 ModernAdvisor should utilize other marketing technologies to not only reflect their name, but to reach a wider consumer base. Below is what they currently use for their marketing technologies. [Source](https://www.slintel.com/company/modernadvisor/5c3b00bcd55ae49f1b76e13a)
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/99091066/155826540-d9e9a4f4-f07b-4073-93cf-9f565c2297d2.png">
 
-Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021. In contrast to WealthSimple that has 84.1 thousand followers and is active on their twitter page. Twitter is a modern platform that many generations use, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services.
-A competent marketing stragety is a decider of the sucess of a company. Wealthsimple has an aggresive marketing strategy that targets users on social media. They now manage over $15 billion in assets, which can largely be accredited to their marketing techniques [source](https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/). They also have a campaign called "money diaries" that involves major celebrities like Kim Kardashian, John Hamm, to name a few [source](https://www.wealthsimple.com/en-ca/magazine/money-diaries). If Modernadvisor took to other social media platforms, they could gain traction as well.
+Searching the hashtag "#ModernAdvisor", generates only a handful of results. Their own page "@ModernAdvsr" last tweeted in May of 2021. In contrast to WealthSimple that has 84.1K followers and is active on their Twitter page. Twitter is a modern platform with a broad user demographic, however their approach to using it is very passive. Their marketing team should be more proactive on the site, by engaging with other users and using the platform to promote their services.
+A competent marketing stragety is a decider of the sucess of a company. Wealthsimple has an aggresive marketing strategy that targets users on social media. They now manage over $15 billion in assets, which can largely be accredited to their marketing techniques [source](https://northbeach.media/why-wealthsimple-has-a-winning-marketing-strategy/). They also have a campaign called "Money Diaries" that involves major celebrities including Kim Kardashian and John Hamm [source](https://www.wealthsimple.com/en-ca/magazine/money-diaries). If ModernAdvisor took to other social media platforms, they could gain traction as well.
 
 ModernAdvisor does have an active YouTube page with 15 videos, last uploaded in November 2021. They have client testimonials, and other informative videos on how their fees are calculated. They should continue to put more focus on these channels to gain viewers and traffic on their sites. Their subscriber count is unavailable on their Youtube page and if searched on a common Youtube tracking page "Social Blade", it is shown that their subscriber count is hidden. However according to their site, the total views they have received on their videos is 37,283 [Source](https://socialblade.com/youtube/search/search?query=ModernAdvisor&error=not-found) 
 
