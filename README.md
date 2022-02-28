@@ -255,7 +255,7 @@ ModernAdvisor and their trial feature, in theory, is a great idea, however their
 
 24. https://www.wealthsimple.com/en-ca/learn/wealthsimple-vs-bmo-smartfolio#about_bmo_wealthsimple
 
-25. https://youngandthrifty.ca/rbc-investease-review/#:~:text=Best%2DIn%2DClass%20Investments%3A,billion%20in%20assets%20under%20management.
+25. https://youngandthrifty.ca/rbc-investease-review/#:~:text=Best%2DIn%2DClass%20Investments%3A,billion%20in%20assets%20under%20management
 
 26. https://www.businessinsider.com/wealthfront-review
 
